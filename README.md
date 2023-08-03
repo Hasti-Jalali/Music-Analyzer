@@ -1,4 +1,4 @@
-## Spotify Persian Music Analyzer
+# Spotify Persian Music Analyzer
 
 > Instructor: [Dr. E. Nazerfard](https://scholar.google.com/citations?user=Cl5tre8AAAAJ&hl=en)
 
